@@ -49,4 +49,13 @@ const Container = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
+  h1 {
+    text-align: center;
+    padding: 20px 0;
+    background: #569cd6;
+    margin: 20px 0;
+    width: 100%;
+    border-radius: 10px;
+  }
 `;
